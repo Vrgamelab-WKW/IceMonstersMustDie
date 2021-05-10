@@ -1,0 +1,132 @@
+User ID: EDITORTEST
+Level: EmptyLevel
+Completion time: 00:16
+Number of deaths: 0
+Number of health lost: 0
+---
+Player Input Data
+
+Jump pressed:
+Duration: 0
+Position: (-5.0, -3.3, 0.0)
+
+Jump released:
+Duration: 0.64
+Position: (-5.0, -0.7, 0.0)
+
+Left arrow pressed:
+Duration: 0
+Position: (-5.0, -3.3, 0.0)
+
+Jump pressed:
+Duration: 0
+Position: (-9.3, -3.3, 0.0)
+
+Jump released:
+Duration: 0.50
+Position: (-11.8, -0.2, 0.0)
+
+Left arrow released:
+Duration: 2.42
+Position: (-13.6, -3.3, 0.0)
+
+Right arrow pressed:
+Duration: 0
+Position: (-13.6, -3.3, 0.0)
+
+Jump pressed:
+Duration: 0
+Position: (-13.0, -3.3, 0.0)
+
+Right arrow released:
+Duration: 0.58
+Position: (-10.8, -0.1, 0.0)
+
+Jump released:
+Duration: 0.47
+Position: (-10.8, -0.1, 0.0)
+
+Jump pressed:
+Duration: 0
+Position: (-10.8, -3.3, 0.0)
+
+Jump released:
+Duration: 0.74
+Position: (-10.8, -1.4, 0.0)
+
+Jump pressed:
+Duration: 0
+Position: (-10.8, -3.3, 0.0)
+
+Jump released:
+Duration: 0.77
+Position: (-10.8, -1.8, 0.0)
+
+Jump pressed:
+Duration: 0
+Position: (-10.8, -3.3, 0.0)
+
+Jump released:
+Duration: 0.67
+Position: (-10.8, -0.9, 0.0)
+
+Jump pressed:
+Duration: 0
+Position: (-10.8, -3.3, 0.0)
+
+Jump released:
+Duration: 0.58
+Position: (-10.8, -0.4, 0.0)
+
+Left arrow pressed:
+Duration: 0
+Position: (-10.8, -3.3, 0.0)
+
+Left arrow released:
+Duration: 0.06
+Position: (-10.8, -3.3, 0.0)
+
+Jump pressed:
+Duration: 0
+Position: (-10.8, -3.3, 0.0)
+
+Jump released:
+Duration: 0.59
+Position: (-10.8, -0.4, 0.0)
+
+Jump pressed:
+Duration: 0
+Position: (-10.8, -3.3, 0.0)
+
+Jump released:
+Duration: 0.42
+Position: (-10.8, -0.2, 0.0)
+
+Right arrow pressed:
+Duration: 0
+Position: (-10.8, -0.5, 0.0)
+
+Jump pressed:
+Duration: 0
+Position: (-7.1, -3.3, 0.0)
+
+Jump released:
+Duration: 0.53
+Position: (-4.6, -0.2, 0.0)
+
+Jump pressed:
+Duration: 0
+Position: (-2.4, -3.3, 0.0)
+
+Jump released:
+Duration: 0.38
+Position: (-0.5, -0.3, 0.0)
+
+Jump pressed:
+Duration: 0
+Position: (2.3, -3.3, 0.0)
+
+Jump released:
+Duration: 0.49
+Position: (4.7, -0.1, 0.0)
+---
